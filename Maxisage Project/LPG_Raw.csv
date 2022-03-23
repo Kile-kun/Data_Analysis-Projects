@@ -1,0 +1,284 @@
+S/No.,Gender,Profession,Fam. Size,Cooking System,Fuel Expenditure,Cooking Experience,Cost Opinion,Opinionated Solution
+1,Female,Teaching,3,LPG System Combined With Others,10000.00,Indifferent,Affordable,Stable Electricity
+2,Female,Civil Service,7,LPG System Combined With Others,7000.00,Indifferent,Expensive,Price Consideration
+3,Female,Student,4,LPG System Alone,6000.00,Indifferent,Affordable,Price Consideration
+4,Female,Artisan,10,LPG System Alone,5000.00,Easy,Expensive,Price Consideration
+5,Female,Civil Service,7,LPG System Combined With Others,5000.00,Easy,Affordable,Price Consideration
+6,Female,Trading,5,LPG System Combined With Others,5000.00,Easy,Affordable,A Replacement
+7,Female,Trading,6,LPG System Combined With Others,5000.00,Easy,Expensive,A Replacement
+8,Female,Trading,10,LPG System Combined With Others,5000.00,Indifferent,Expensive,Price Consideration
+9,Female,Teaching,4,LPG System Combined With Others,4500.00,Stressful,Expensive,Price Consideration
+10,Female,Teaching,5,LPG System Alone,4000.00,Easy,Expensive,Better Alternatives
+11,Female,Trading,4,LPG System Alone,4000.00,Easy,Expensive,Guage on Gas Cylinders
+12,Female,Trading,7,LPG System Alone,4000.00,Easy,Affordable,Stable Electricity
+13,Female,Teaching,4,LPG System Alone,4000.00,Easy,Affordable,Price Consideration
+14,Female,Teaching,4,LPG System Alone,4000.00,Easy,Expensive,Price Consideration
+15,Female,Trading,4,LPG System Alone,4000.00,Easy,Affordable,Better Alternatives
+16,Female,Civil Service,10,LPG System Combined With Others,4000.00,Easy,Expensive,Price Consideration
+17,Female,Trading,5,LPG System Combined With Others,4000.00,Stressful,Expensive,Price Consideration
+18,Female,Trading,5,LPG System Combined With Others,4000.00,Stressful,Expensive,Price Consideration
+19,Female,Housewife,8,LPG System Combined With Others,4000.00,Indifferent,Expensive,Better Alternatives
+20,Female,Civil Service,6,LPG System Alone,3900.00,Easy,Expensive,Price Consideration
+21,Female,Teaching,5,LPG System Combined With Others,3900.00,Easy,Expensive,Price Consideration
+22,Female,Accountant,3,LPG System Alone,3800.00,Easy,Affordable,Better Alternatives
+23,Female,Civil Service,6,LPG System Alone,3800.00,Indifferent,Expensive,Price Consideration
+24,Female,Teaching,3,LPG System Combined With Others,3800.00,Easy,Expensive,Price Consideration
+25,Female,Trading,7,LPG System Combined With Others,3500.00,Easy,Expensive,Price Consideration
+26,Female,Teaching,4,LPG System Combined With Others,3500.00,Stressful,Expensive,Price Consideration
+27,Female,Student,3,LPG System Combined With Others,3500.00,Indifferent,Expensive,Price Consideration
+28,Female,Civil Service,5,LPG System Alone,3000.00,Easy,Affordable,More Distribution Outlets
+29,Female,Civil Service,5,LPG System Alone,3000.00,Easy,Expensive,More Distribution Outlets
+30,Female,Civil Service,4,LPG System Alone,3000.00,Easy,Expensive,Stable Electricity
+31,Female,Artisan,2,LPG System Combined With Others,3000.00,Easy,Expensive,Stable Electricity
+32,Female,Civil Service,5,LPG System Combined With Others,3000.00,Easy,Expensive,Price Consideration
+33,Female,Trading,3,LPG System Combined With Others,3000.00,Easy,Expensive,Price Consideration
+34,Female,Artisan,5,LPG System Combined With Others,2500.00,Stressful,Expensive,Price Consideration
+35,Female,Teaching,4,LPG System Combined With Others,2500.00,Stressful,Expensive,Price Consideration
+36,Female,Teaching,5,LPG System Alone,2000.00,Easy,Expensive,Price Consideration
+37,Male,Student,8,LPG System Alone,2000.00,Stressful,Expensive,Price Consideration
+38,Male,Student,1,LPG System Alone,2000.00,Easy,Expensive,Price Consideration
+39,Female,Teaching,2,LPG System Alone,2000.00,Stressful,Expensive,Better Alternatives
+40,Female,Teaching,9,LPG System Alone,2000.00,Indifferent,Affordable,Better Alternatives
+41,Female,Student,3,LPG System Alone,2000.00,Easy,Affordable,Price Consideration
+42,Female,Trading,7,LPG System Combined With Others,2000.00,Easy,Expensive,Price Consideration
+43,Female,Trading,3,LPG System Combined With Others,2000.00,Easy,Expensive,Price Consideration
+44,Female,Civil Service,3,LPG System Combined With Others,2000.00,Indifferent,Expensive,Price Consideration
+45,Female,Civil Service,5,LPG System Combined With Others,2000.00,Easy,Affordable,Price Consideration
+46,Female,Teaching,1,LPG System Combined With Others,2000.00,Easy,Affordable,Stable Electricity
+47,Female,Trading,2,LPG System Alone,1900.00,Indifferent,Affordable,Price Consideration
+48,Female,Trading,4,LPG System Alone,1900.00,Easy,Expensive,Price Consideration
+49,Female,Student,1,LPG System Alone,1900.00,Easy,Expensive,Guage on Gas Cylinders
+50,Female,Teaching,3,LPG System Alone,1900.00,Easy,Affordable,A Replacement
+51,Female,Teaching,5,LPG System Alone,1900.00,Easy,Expensive,A Replacement
+52,Female,Civil Service,3,LPG System Alone,1900.00,Easy,Affordable,Stable Electricity
+53,Male,Teaching,4,LPG System Alone,1800.00,Easy,Expensive,Price Consideration
+54,Male,Student,3,LPG System Alone,1800.00,Easy,Expensive,A Replacement
+55,Female,Student,4,LPG System Alone,1800.00,Easy,Affordable,Better Alternatives
+56,Female,Trading,4,LPG System Combined With Others,1800.00,Stressful,Expensive,Better Alternatives
+57,Female,Civil Service,5,LPG System Combined With Others,1700.00,Easy,Affordable,More Distribution Outlets
+58,Female,Civil Service,1,LPG System Alone,1600.00,Easy,Expensive,Price Consideration
+59,Male,Student,1,LPG System Combined With Others,1550.00,Indifferent,Expensive,Stable Electricity
+60,Female,Teaching,3,LPG System Alone,1500.00,Easy,Affordable,A Replacement
+61,Female,Artisan,1,LPG System Alone,1500.00,Easy,Expensive,Price Consideration
+62,Female,Corper,3,LPG System Alone,1500.00,Easy,Expensive,Price Consideration
+63,Female,Student,1,LPG System Alone,1500.00,Easy,Affordable,Guage on Gas Cylinders
+64,Female,Artisan,1,LPG System Combined With Others,1500.00,Easy,Affordable,Better Alternatives
+65,Female,Trading,3,LPG System Combined With Others,1500.00,Easy,Expensive,Price Consideration
+66,Female,Student,1,LPG System Alone,1400.00,Easy,Affordable,A Replacement
+67,Female,Artisan,5,LPG System Combined With Others,1300.00,Easy,Expensive,Price Consideration
+68,Female,Teaching,3,LPG System Alone,1200.00,Indifferent,Affordable,Price Consideration
+69,Female,Teaching,1,LPG System Combined With Others,1200.00,Easy,Expensive,Price Consideration
+70,Female,Civil Service,1,LPG System Alone,1100.00,Indifferent,Expensive,Price Consideration
+71,Male,Student,2,LPG System Alone,1100.00,Easy,Affordable,Price Consideration
+72,Female,Student,1,LPG System Alone,1100.00,Stressful,Expensive,A Replacement
+73,Female,Teaching,3,LPG System Alone,1000.00,Easy,Affordable,Better Alternatives
+74,Female,Civil Service,6,LPG System Alone,1000.00,Easy,Affordable,Price Consideration
+75,Female,Teaching,1,LPG System Alone,1000.00,Easy,Affordable,Guage on Gas Cylinders
+76,Female,Trading,3,LPG System Alone,1000.00,Easy,Expensive,Better Alternatives
+77,Female,Civil Service,5,LPG System Combined With Others,1000.00,Stressful,Expensive,Price Consideration
+78,Female,Teaching,4,LPG System Alone,950.00,Easy,Expensive,Price Consideration
+79,Male,Artisan,1,LPG System Alone,900.00,Easy,Expensive,A Replacement
+80,Male,Student,1,LPG System Alone,800.00,Easy,Affordable,Price Consideration
+81,Female,Student,3,LPG System Alone,800.00,Indifferent,Affordable,Stable Electricity
+82,Female,Trading,5,Non-LPG System Single,10000.00,Stressful,Expensive,Price Consideration
+83,Male,Trading,10,Non-LPG System Combined,10000.00,Indifferent,Expensive,Price Consideration
+84,Female,Civil Service,5,Non-LPG System Single,9000.00,Stressful,Expensive,Price Consideration
+85,Female,Trading,3,Non-LPG System Single,8000.00,Stressful,Expensive,Price Consideration
+86,Female,Trading,10,Non-LPG System Single,8000.00,Stressful,Expensive,Price Consideration
+87,Female,Civil Service,4,Non-LPG System Single,7200.00,Stressful,Expensive,Better Alternatives
+88,Female,Teaching,3,Non-LPG System Single,6000.00,Stressful,Expensive,Better Alternatives
+89,Female,Artisan,4,Non-LPG System Combined,6000.00,Stressful,Expensive,Better Alternatives
+90,Female,Teaching,5,Non-LPG System Combined,6000.00,Indifferent,Expensive,Price Consideration
+91,Female,Trading,4,Non-LPG System Single,6000.00,Stressful,Expensive,Better Alternatives
+92,Female,Teaching,4,Non-LPG System Single,6000.00,Stressful,Expensive,Price Consideration
+93,Female,Trading,10,Non-LPG System Combined,6000.00,Easy,Expensive,Better Alternatives
+94,Female,Teaching,5,Non-LPG System Single,6000.00,Easy,Expensive,Better Alternatives
+95,Female,Teaching,6,Non-LPG System Single,5000.00,Stressful,Expensive,Better Alternatives
+96,Female,Civil Service,3,Non-LPG System Single,5000.00,Stressful,Expensive,Price Consideration
+97,Female,Trading,6,Non-LPG System Combined,5000.00,Easy,Affordable,Price Consideration
+98,Female,Teaching,3,Non-LPG System Single,5000.00,Stressful,Expensive,Price Consideration
+99,Female,Artisan,4,Non-LPG System Single,5000.00,Stressful,Expensive,Price Consideration
+100,Female,Artisan,6,Non-LPG System Combined,5000.00,Easy,Expensive,Better Alternatives
+101,Female,Teaching,8,Non-LPG System Combined,5000.00,Stressful,Expensive,Better Alternatives
+102,Female,Artisan,4,Non-LPG System Combined,4600.00,Easy,Expensive,Better Alternatives
+103,Female,Trading,4,Non-LPG System Single,4500.00,Stressful,Expensive,Better Alternatives
+104,Female,Trading,4,Non-LPG System Single,4500.00,Stressful,Expensive,Better Alternatives
+105,Female,Teaching,10,Non-LPG System Single,4500.00,Stressful,Expensive,Price Consideration
+106,Female,Artisan,8,Non-LPG System Combined,4500.00,Indifferent,Expensive,Better Alternatives
+107,Female,Teaching,6,Non-LPG System Combined,4500.00,Stressful,Expensive,Price Consideration
+108,Female,Student,2,Non-LPG System Single,4200.00,Easy,Expensive,Price Consideration
+109,Female,Trading,3,Non-LPG System Single,4000.00,Easy,Expensive,Better Alternatives
+110,Female,Teaching,3,Non-LPG System Single,4000.00,Indifferent,Expensive,Price Consideration
+111,Female,Artisan,10,Non-LPG System Combined,4000.00,Easy,Expensive,Better Alternatives
+112,Female,Civil Service,6,Non-LPG System Combined,4000.00,Stressful,Expensive,Better Alternatives
+113,Female,Trading,4,Non-LPG System Combined,4000.00,Stressful,Expensive,Price Consideration
+114,Female,Trading,6,Non-LPG System Combined,4000.00,Stressful,Expensive,Price Consideration
+115,Female,Civil Service,3,Non-LPG System Single,4000.00,Easy,Affordable,Better Alternatives
+116,Female,Civil Service,4,Non-LPG System Single,4000.00,Stressful,Expensive,Price Consideration
+117,Female,Teaching,2,Non-LPG System Single,4000.00,Stressful,Expensive,Price Consideration
+118,Female,Teaching,6,Non-LPG System Combined,4000.00,Stressful,Expensive,Better Alternatives
+119,Female,Student,8,Non-LPG System Combined,4000.00,Stressful,Expensive,Price Consideration
+120,Female,Trading,4,Non-LPG System Single,4000.00,Indifferent,Expensive,Price Consideration
+121,Male,Teaching,3,Non-LPG System Single,3600.00,Indifferent,Expensive,Price Consideration
+122,Female,Trading,3,Non-LPG System Combined,3600.00,Easy,Expensive,Better Alternatives
+123,Female,Trading,6,Non-LPG System Single,3600.00,Stressful,Affordable,Better Alternatives
+124,Female,Trading,5,Non-LPG System Single,3500.00,Indifferent,Expensive,Price Consideration
+125,Female,Trading,6,Non-LPG System Combined,3500.00,Stressful,Expensive,Better Alternatives
+126,Female,Student,10,Non-LPG System Combined,3500.00,Easy,Affordable,Better Alternatives
+127,Female,Artisan,8,Non-LPG System Combined,3500.00,Easy,Expensive,Better Alternatives
+128,Female,Trading,2,Non-LPG System Combined,3500.00,Easy,Expensive,Better Alternatives
+129,Female,Trading,5,Non-LPG System Combined,3500.00,Indifferent,Expensive,Price Consideration
+130,Female,Artisan,3,Non-LPG System Combined,3500.00,Stressful,Expensive,Price Consideration
+131,Female,Trading,6,Non-LPG System Combined,3500.00,Indifferent,Expensive,Price Consideration
+132,Female,Civil Service,4,Non-LPG System Combined,3500.00,Stressful,Expensive,Price Consideration
+133,Female,Civil Service,5,Non-LPG System Single,3500.00,Stressful,Expensive,Price Consideration
+134,Female,Artisan,5,Non-LPG System Combined,3500.00,Indifferent,Expensive,Price Consideration
+135,Female,Student,4,Non-LPG System Combined,3500.00,Easy,Affordable,Price Consideration
+136,Female,Trading,5,Non-LPG System Combined,3300.00,Stressful,Expensive,Price Consideration
+137,Female,Artisan,8,Non-LPG System Combined,3200.00,Easy,Expensive,Better Alternatives
+138,Female,Trading,4,Non-LPG System Single,3200.00,Stressful,Expensive,Better Alternatives
+139,Female,Trading,2,Non-LPG System Combined,3100.00,Easy,Expensive,A Replacement
+140,Female,Artisan,2,Non-LPG System Single,3000.00,Indifferent,Affordable,Price Consideration
+141,Female,Housewife,4,Non-LPG System Single,3000.00,Indifferent,Expensive,Price Consideration
+142,Female,Teaching,5,Non-LPG System Single,3000.00,Indifferent,Affordable,A Replacement
+143,Female,Trading,3,Non-LPG System Single,3000.00,Stressful,Expensive,Better Alternatives
+144,Female,Trading,4,Non-LPG System Single,3000.00,Indifferent,Expensive,Price Consideration
+145,Female,Student,3,Non-LPG System Single,3000.00,Easy,Expensive,Price Consideration
+146,Female,Teaching,3,Non-LPG System Single,3000.00,Indifferent,Expensive,Price Consideration
+147,Female,Teaching,3,Non-LPG System Single,3000.00,Easy,Expensive,Price Consideration
+148,Female,Artisan,4,Non-LPG System Combined,3000.00,Stressful,Expensive,Price Consideration
+149,Female,Student,2,Non-LPG System Combined,3000.00,Easy,Expensive,Better Alternatives
+150,Female,Student,2,Non-LPG System Combined,3000.00,Easy,Expensive,Better Alternatives
+151,Female,Teaching,3,Non-LPG System Combined,3000.00,Easy,Expensive,Better Alternatives
+152,Female,Trading,4,Non-LPG System Combined,3000.00,Easy,Expensive,Price Consideration
+153,Male,Student,2,Non-LPG System Combined,3000.00,Easy,Expensive,Price Consideration
+154,Female,Teaching,4,Non-LPG System Combined,3000.00,Stressful,Expensive,Price Consideration
+155,Female,Teaching,3,Non-LPG System Combined,3000.00,Stressful,Expensive,Price Consideration
+156,Female,Trading,10,Non-LPG System Combined,3000.00,Stressful,Expensive,Stable Electricity
+157,Female,Civil Service,7,Non-LPG System Combined,3000.00,Easy,Affordable,Stable Electricity
+158,Female,Civil Service,4,Non-LPG System Combined,2800.00,Stressful,Expensive,Better Alternatives
+159,Female,Trading,5,Non-LPG System Combined,2800.00,Indifferent,Expensive,Price Consideration
+160,Female,Trading,2,Non-LPG System Single,2800.00,Indifferent,Expensive,Better Alternatives
+161,Female,Trading,7,Non-LPG System Single,2600.00,Stressful,Expensive,Better Alternatives
+162,Female,Trading,6,Non-LPG System Combined,2600.00,Easy,Expensive,Better Alternatives
+163,Female,Trading,6,Non-LPG System Combined,2500.00,Stressful,Expensive,Better Alternatives
+164,Female,Artisan,7,Non-LPG System Single,2500.00,Stressful,Expensive,Price Consideration
+165,Female,Trading,4,Non-LPG System Single,2500.00,Stressful,Expensive,Price Consideration
+166,Female,Teaching,4,Non-LPG System Combined,2500.00,Stressful,Expensive,Price Consideration
+167,Female,Artisan,3,Non-LPG System Combined,2500.00,Easy,Expensive,Better Alternatives
+168,Female,Artisan,4,Non-LPG System Combined,2500.00,Stressful,Expensive,Better Alternatives
+169,Female,Artisan,4,Non-LPG System Combined,2500.00,Stressful,Affordable,Better Alternatives
+170,Female,Trading,1,Non-LPG System Combined,2500.00,Easy,Expensive,Better Alternatives
+171,Female,Trading,8,Non-LPG System Combined,2500.00,Easy,Expensive,Price Consideration
+172,Female,Trading,5,Non-LPG System Combined,2500.00,Indifferent,Expensive,Price Consideration
+173,Female,Trading,8,Non-LPG System Combined,2500.00,Indifferent,Expensive,Price Consideration
+174,Female,Trading,4,Non-LPG System Single,2500.00,Indifferent,Expensive,Better Alternatives
+175,Female,Trading,6,Non-LPG System Single,2500.00,Easy,Expensive,Price Consideration
+176,Male,Teaching,4,Non-LPG System Single,2500.00,Indifferent,Expensive,Price Consideration
+177,Female,Teaching,4,Non-LPG System Single,2500.00,Stressful,Expensive,Price Consideration
+178,Female,Teaching,8,Non-LPG System Single,2500.00,Easy,Expensive,Better Alternatives
+179,Female,Teaching,4,LPG System Alone,2500.00,Stressful,Expensive,Better Alternatives
+180,Female,Teaching,5,Non-LPG System Combined,2500.00,Stressful,Expensive,Price Consideration
+181,Female,Teaching,4,Non-LPG System Single,2500.00,Easy,Expensive,Price Consideration
+182,Female,Artisan,6,Non-LPG System Combined,2400.00,Easy,Expensive,Better Alternatives
+183,Female,Artisan,2,Non-LPG System Single,2400.00,Indifferent,Expensive,Better Alternatives
+184,Female,Artisan,4,Non-LPG System Single,2400.00,Stressful,Expensive,Better Alternatives
+185,Female,Artisan,4,Non-LPG System Combined,2300.00,Easy,Expensive,Better Alternatives
+186,Female,Housewife,2,Non-LPG System Single,2300.00,Indifferent,Affordable,Stable Electricity
+187,Female,Trading,2,Non-LPG System Combined,2200.00,Stressful,Expensive,Better Alternatives
+188,Female,Trading,4,Non-LPG System Combined,2200.00,Easy,Expensive,Better Alternatives
+189,Female,Teaching,4,Non-LPG System Single,2200.00,Easy,Expensive,Price Consideration
+190,Female,Teaching,2,Non-LPG System Single,2200.00,Easy,Expensive,Price Consideration
+191,Female,Teaching,6,Non-LPG System Combined,2200.00,Stressful,Expensive,Price Consideration
+192,Female,Trading,6,Non-LPG System Single,2000.00,Stressful,Expensive,Better Alternatives
+193,Female,Trading,3,Non-LPG System Single,2000.00,Stressful,Expensive,Price Consideration
+194,Female,Artisan,4,Non-LPG System Single,2000.00,Stressful,Expensive,Price Consideration
+195,Female,Teaching,4,Non-LPG System Single,2000.00,Stressful,Expensive,Price Consideration
+196,Female,Teaching,5,Non-LPG System Single,2000.00,Stressful,Expensive,Price Consideration
+197,Female,Teaching,2,Non-LPG System Combined,2000.00,Easy,Expensive,Stable Electricity
+198,Female,Trading,6,Non-LPG System Combined,2000.00,Stressful,Expensive,Better Alternatives
+199,Female,Housewife,7,Non-LPG System Combined,2000.00,Indifferent,Expensive,Better Alternatives
+200,Female,Trading,2,Non-LPG System Combined,2000.00,Indifferent,Affordable,Better Alternatives
+201,Female,Housewife,2,Non-LPG System Combined,2000.00,Indifferent,Affordable,Better Alternatives
+202,Female,Teaching,2,Non-LPG System Combined,2000.00,Stressful,Expensive,Price Consideration
+203,Female,Trading,6,Non-LPG System Combined,2000.00,Stressful,Expensive,Price Consideration
+204,Female,Trading,5,Non-LPG System Combined,2000.00,Stressful,Expensive,Price Consideration
+205,Female,Artisan,3,Non-LPG System Combined,2000.00,Stressful,Expensive,Price Consideration
+206,Female,Trading,3,Non-LPG System Single,2000.00,Stressful,Expensive,Better Alternatives
+207,Female,Trading,1,Non-LPG System Single,2000.00,Easy,Expensive,Better Alternatives
+208,Female,Teaching,3,Non-LPG System Single,2000.00,Easy,Expensive,Price Consideration
+209,Female,Teaching,3,Non-LPG System Single,2000.00,Easy,Expensive,Price Consideration
+210,Female,Teaching,4,Non-LPG System Single,2000.00,Stressful,Expensive,A Replacement
+211,Female,Trading,5,Non-LPG System Combined,2000.00,Easy,Expensive,Better Alternatives
+212,Female,Teaching,3,Non-LPG System Combined,2000.00,Stressful,Expensive,Better Alternatives
+213,Female,Teaching,5,Non-LPG System Combined,2000.00,Easy,Expensive,Price Consideration
+214,Female,Teaching,8,Non-LPG System Combined,2000.00,Easy,Expensive,Better Alternatives
+215,Female,Student,6,Non-LPG System Combined,2000.00,Easy,Affordable,Stable Electricity
+216,Female,Student,1,Non-LPG System Combined,2000.00,Indifferent,Expensive,Stable Electricity
+217,Female,Trading,1,Non-LPG System Single,2000.00,Easy,Expensive,Price Consideration
+218,Female,Student,7,Non-LPG System Combined,1900.00,Indifferent,Expensive,Better Alternatives
+219,Female,Artisan,4,Non-LPG System Combined,1900.00,Easy,Expensive,Stable Electricity
+220,Female,Teaching,4,Non-LPG System Single,1800.00,Stressful,Expensive,Price Consideration
+221,Female,Artisan,7,Non-LPG System Combined,1800.00,Stressful,Expensive,Better Alternatives
+222,Female,Trading,6,Non-LPG System Combined,1800.00,Easy,Affordable,Better Alternatives
+223,Female,Teaching,5,Non-LPG System Combined,1800.00,Easy,Expensive,Price Consideration
+224,Female,Trading,6,Non-LPG System Single,1700.00,Stressful,Expensive,Price Consideration
+225,Female,Artisan,4,Non-LPG System Combined,1700.00,Easy,Expensive,Better Alternatives
+226,Female,Trading,1,Non-LPG System Combined,1700.00,Indifferent,Expensive,Better Alternatives
+227,Female,Teaching,3,Non-LPG System Combined,1700.00,Easy,Expensive,Price Consideration
+228,Female,Trading,5,Non-LPG System Single,1600.00,Stressful,Expensive,Better Alternatives
+229,Female,Trading,4,Non-LPG System Single,1600.00,Stressful,Expensive,Price Consideration
+230,Female,Artisan,4,Non-LPG System Combined,1600.00,Easy,Expensive,Better Alternatives
+231,Female,Student,1,Non-LPG System Combined,1600.00,Easy,Expensive,Price Consideration
+232,Female,Nursing,8,Non-LPG System Single,1500.00,Stressful,Expensive,Price Consideration
+233,Female,Trading,10,Non-LPG System Combined,1500.00,Easy,Expensive,Better Alternatives
+234,Female,Trading,7,Non-LPG System Combined,1500.00,Stressful,Expensive,Price Consideration
+235,Female,Trading,4,Non-LPG System Single,1500.00,Indifferent,Expensive,Better Alternatives
+236,Female,Artisan,1,Non-LPG System Single,1500.00,Stressful,Expensive,Better Alternatives
+237,Female,Civil Service,7,Non-LPG System Single,1500.00,Easy,Expensive,Better Alternatives
+238,Female,Trading,7,Non-LPG System Single,1500.00,Stressful,Affordable,Better Alternatives
+239,Female,Teaching,6,Non-LPG System Single,1500.00,Stressful,Expensive,Price Consideration
+240,Female,Teaching,4,Non-LPG System Single,1500.00,Stressful,Expensive,Price Consideration
+241,Female,Artisan,8,Non-LPG System Single,1500.00,Stressful,Expensive,Price Consideration
+242,Female,Trading,3,Non-LPG System Single,1500.00,Stressful,Expensive,Price Consideration
+243,Female,Teaching,5,Non-LPG System Single,1500.00,Easy,Expensive,Price Consideration
+244,Female,Trading,4,Non-LPG System Combined,1500.00,Stressful,Expensive,Better Alternatives
+245,Female,Teaching,5,Non-LPG System Single,1500.00,Stressful,Expensive,Price Consideration
+246,Female,Artisan,5,Non-LPG System Combined,1500.00,Easy,Affordable,Price Consideration
+247,Female,Artisan,3,Non-LPG System Combined,1500.00,Indifferent,Expensive,Better Alternatives
+248,Female,Teaching,4,Non-LPG System Combined,1500.00,Easy,Expensive,Price Consideration
+249,Female,Artisan,3,Non-LPG System Single,1500.00,Indifferent,Affordable,Better Alternatives
+250,Female,Artisan,1,Non-LPG System Combined,2600.00,Easy,Expensive,Stable Electricity
+251,Female,Trading,5,Non-LPG System Combined,2000.00,Easy,Expensive,Stable Electricity
+252,Female,Trading,2,Non-LPG System Single,1200.00,Stressful,Expensive,Better Alternatives
+253,Male,Trading,1,Non-LPG System Combined,1050.00,Easy,Expensive,Better Alternatives
+254,Female,Teaching,1,Non-LPG System Single,1000.00,Easy,Affordable,Better Alternatives
+255,Female,Trading,3,Non-LPG System Combined,1000.00,Stressful,Expensive,Better Alternatives
+256,Female,Student,2,Non-LPG System Single,1000.00,Easy,Expensive,Better Alternatives
+257,Female,Student,10,Non-LPG System Combined,1000.00,Easy,Expensive,Better Alternatives
+258,Female,Student,1,Non-LPG System Combined,500.00,Easy,Expensive,Better Alternatives
+259,Female,Trading,10,Non-LPG System Single,3000.00,Stressful,Cheap,Better Alternatives
+260,Female,Trading,8,Non-LPG System Combined,3000.00,Indifferent,Cheap,Better Alternatives
+261,Female,Teaching,9,Non-LPG System Single,3000.00,Indifferent,Expensive,Better Alternatives
+262,Female,Trading,6,Non-LPG System Combined,3000.00,Stressful,Expensive,Better Alternatives
+263,Female,Teaching,3,Non-LPG System Single,3000.00,Easy,Expensive,Better Alternatives
+264,Male,Student,1,Non-LPG System Single,3000.00,Stressful,Expensive,Better Alternatives
+265,Female,Teaching,1,Non-LPG System Single,1260.00,Stressful,Expensive,Price Consideration
+266,Female,Student,1,Non-LPG System Combined,1200.00,Stressful,Expensive,Price Consideration
+267,Male,Student,1,Non-LPG System Single,1000.00,Stressful,Expensive,Price Consideration
+268,Female,Student,1,Non-LPG System Combined,1000.00,Stressful,Expensive,Price Consideration
+269,Female,Teaching,5,Non-LPG System Single,3000.00,Easy,Expensive,Price Consideration
+270,Female,Trading,1,Non-LPG System Single,1000.00,Indifferent,Expensive,Stable Electricity
+271,Male,Artisan,4,Non-LPG System Combined,1000.00,Stressful,Expensive,Stable Electricity
+272,Male,Student,2,Non-LPG System Combined,1000.00,Easy,Affordable,Stable Electricity
+273,Male,Student,2,Non-LPG System Single,3000.00,Indifferent,Affordable,Stable Electricity
+274,Female,Trading,3,Non-LPG System Single,3000.00,Easy,Cheap,Stable Electricity
+275,Female,Trading,2,Non-LPG System Single,3000.00,Easy,Cheap,Stable Electricity
+276,Male,Artisan,6,Non-LPG System Single,3000.00,Easy,Affordable,Stable Electricity
+277,Female,Teaching,6,Non-LPG System Single,3000.00,Indifferent,Affordable,Stable Electricity
+278,Female,Student,1,Non-LPG System Single,3000.00,Easy,Affordable,Stable Electricity
+279,Male,Artisan,2,Non-LPG System Single,1000.00,Stressful,Expensive,Better Alternatives
+280,Female,Teaching,3,Non-LPG System Single,1000.00,Easy,Expensive,Price Consideration
+281,Female,Artisan,4,Non-LPG System Combined,1000.00,Easy,Expensive,Stable Electricity
+282,Female,Student,1,Non-LPG System Combined,500.00,Easy,Expensive,Stable Electricity
+283,Male,Student,1,Non-LPG System Single,3000.00,Indifferent,Cheap,Better Alternatives
